@@ -1,4 +1,4 @@
-# Image-Classification-for-Polarized-Image
+# Image-classification-for-one-single-Image-based-on-Degree-of-Polarization
 
 This project aims at detecting the material (plastic/chong/metal) based on one image:
 
