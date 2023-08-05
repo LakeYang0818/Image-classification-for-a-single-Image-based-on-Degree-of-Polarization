@@ -2,7 +2,8 @@
 
 This project aims at detecting the material (plastic/chong/metal) based on one image.
 
-Out source image:
+Source image:
+\
 
 ![alt text](https://github.com/LakeYang0818/Image-Classification-for-Polarized-Image/blob/45eca0018d56cfa042cf4d992781d3940f6a3c28/Image%20Source/Source_Image.png)
 
