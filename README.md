@@ -4,20 +4,20 @@ This project aims at detecting the material (plastic/chong/metal) based on one i
 
 Step 1. Prepare dataset
 
-Link
+Scripts/Transfer images to npy file.ipynb
 
 - Dividing the image into three parts: plastic, chong, metal. 
 - Transfering the source image and three material images into .npy files.
 
 Step 2. Polarize the three images
 
-Link
+Scripts/Polarization.ipynb
 
 - Polarize the image using the Neural Network
 
 Step 3. Train-Test-Split to prepare datasets for image classification
 
-Link
+Scripts/Slicing for train data.ipynb
 
 
 
